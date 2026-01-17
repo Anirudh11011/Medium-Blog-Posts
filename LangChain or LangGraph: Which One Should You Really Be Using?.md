@@ -1,5 +1,7 @@
 # LangChain or LangGraph: Which One Should You Really Be Using?
 
+*Originally published on Medium: https://medium.com/@anirudh11011/langchain-or-langgraph-which-one-should-you-really-be-using-4553941aef1b*
+
 **From Chains to Loops: Understanding the evolution of AI workflows**
 
 The AI ecosystem moves fast, and two names seem to come up in every conversation about agent workflows: **LangChain** and **LangGraph**.
@@ -11,8 +13,6 @@ If you are trying to decide which one to learn or implement, here is the breakdo
 ---
 
 ## Feature Comparison
-
-![LangChain vs LangGraph](./cfd85bb9-cfda-43c2-a108-3260079f6109.png)
 
 | Feature        | LangChain (Chains)                 | LangGraph                         |
 |----------------|-----------------------------------|-----------------------------------|
