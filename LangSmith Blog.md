@@ -1,3 +1,4 @@
+<img width="800" height="436" alt="image" src="https://github.com/user-attachments/assets/d9282011-ece9-455e-87ee-6f629d762ac8" />
 # Taming the LLM Chaos: A Narrative Guide to LangSmith
 
 If you’ve spent any time building with Large Language Models (LLMs), you are likely familiar with the "Prototype Trap."
