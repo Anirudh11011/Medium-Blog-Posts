@@ -1,5 +1,7 @@
 # Memory in Modern AI Agents (LangChain & LangGraph)
 
+*Originally published on Medium: https://medium.com/@anirudh11011/the-state-of-the-art-memory-in-modern-langchain-and-langgraph-19c5c3f24fc8
+
 If you are building AI agents today, memory is not just another feature — it is part of the architecture.
 
 A stateless LLM can generate strong responses in a single interaction, but real-world systems need more than that. They must:
