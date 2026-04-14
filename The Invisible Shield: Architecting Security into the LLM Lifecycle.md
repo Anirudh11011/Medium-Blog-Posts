@@ -1,3 +1,4 @@
+<img width="2816" height="1326" alt="LLM_Security_Medium_Post" src="https://github.com/user-attachments/assets/f90a29c2-f5dc-4580-b666-36239a1088ba" />
 
 ## The Invisible Shield: Architecting Security into the LLM Lifecycle
 
